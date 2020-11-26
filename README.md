@@ -1,6 +1,6 @@
 <p>
   <a href="https://twitter.com/xico2k">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/enunomaduro?style=for-the-badge">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xico2k?style=for-the-badge">
   </a>
 </p>
 
