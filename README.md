@@ -7,6 +7,7 @@
 <a href="https://github.com/xico2k">
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=xico2k&count_private=true&show_icons=true&theme=dark&line_height=27" align="right" height="170" /></a>
 
+- @laravelphp ☁️ Core Team Member
 - 🔭 Software Developer
 - ⚡  I build everything with HTML and CSS 👌
 - 🍃 Co-author of [Termwind](https://github.com/nunomaduro/termwind).
